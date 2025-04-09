@@ -40,7 +40,7 @@ const char *password = "rakib@2024";                       // Your PASS
 #define serverUrl "http://192.168.0.106:8888/uploadAudio"  // Change the IP Address according To Your Server's config
 
 ESpeech STT(ssid, password, serverUrl);
-GeminiESP32 assistant("", "", "AIzaSyDPNTBZEBFmlZBIStC-ExslDAMQPudkuOE");
+GeminiESP32 assistant("", "", "YOUR_API_KEY");
 
 void setup() {
   Serial.begin(115200);
