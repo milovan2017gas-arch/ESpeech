@@ -38,7 +38,7 @@ static bool detected();
 const char *ssid = "Rakib";                                // Your SSID
 const char *password = "rakib@2024";                       // Your PASS
 #define serverUrl "http://192.168.0.106:8888/uploadAudio"  // Change the IP Address according To Your Server's config
-#define GEMINI_API_TOKEN "AIzaSyDPNTBZEBFmlZBIStC-ExslDAMQPudkuOE"
+#define GEMINI_API_TOKEN "YOUR_API_TOKEN"
 #define I2S_WS 16
 #define I2S_SD 7
 #define I2S_SCK 15
