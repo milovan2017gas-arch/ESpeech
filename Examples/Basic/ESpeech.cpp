@@ -9,7 +9,9 @@ ESpeech::ESpeech(i2s_port_t i2s_port,int i2s_sck,int i2s_ws,int i2s_sd)
 
 void ESpeech::begin(const char* server_Url){
     serverUrl=server_Url;
-    delay(100);
+    StorageInit();
+    StorageInit();
+    StorageInit();
     StorageInit();
 }
 

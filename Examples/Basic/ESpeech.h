@@ -4,7 +4,6 @@
 #include "FS.h"
 //#define USE_FFAT
 #define USE_SPIFFS
-
 #ifdef USE_FFAT
 #include "FFat.h"
 #endif
