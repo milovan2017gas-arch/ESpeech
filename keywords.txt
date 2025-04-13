@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For ESpeech
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ESpeech	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+serverURL	KEYWORD2
+recordAudio	KEYWORD2
+getTranscription	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+USE_SPIFFS	LITERAL1
+USE_FFAT    	LITERAL1

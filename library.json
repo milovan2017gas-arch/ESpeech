@@ -1,0 +1,20 @@
+{
+  "name": "ESpeech",
+  "version": "2.0.0",
+  "description": "Official library for speech to text",
+  "keywords": "ESpeech",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheZeroHz/ESpeech"
+  },
+  "authors": [
+    {
+      "name": "ZeroHz",
+      "url": "https://github.com/TheZeroHz",
+      "maintainer": true
+    }
+  ],
+  "license": "GPL-3.0-or-later",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
